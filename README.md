@@ -12,3 +12,4 @@ record of OSCP Preparation
 
 [Assertion101](https://silky-busby-557.notion.site/Assertion101-775eadfd720c40f1abdbb02cbfc5d6eb)
 
+[ICMP](https://silky-busby-557.notion.site/ICMP-58dafaac40e149b581a8c52e1e328ce8?pvs=25)
